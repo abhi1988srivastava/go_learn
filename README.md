@@ -1,4 +1,4 @@
 go_learn
 ========
 
-Few examples to learn about go
+ebook to understand golang.
